@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+main {
+    background-image: url(imagens/fundo-madeira.jpg);
+}
+
+section #celular {
+    background-image: url(.../imagens/frame-iphone.png);
+}
